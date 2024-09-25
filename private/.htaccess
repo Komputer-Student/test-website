@@ -2,6 +2,6 @@ AuthType Basic
 
 AuthName "Restricted access"
 
-AuthUserFile Komputer-Student/test-website/blob/main/private/.htpasswd
+AuthUserFile /main/private/.htpasswd
 
 Require valid-user
